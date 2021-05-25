@@ -1,5 +1,5 @@
 <?php
-$dbconn = mysqli_connect("localhost","root","","flowerpower");
+$dbconn = mysqli_connect("eu-cdbr-west-01.cleardb.com","bedb44c50f5d82","0ff9e6e2","flowerpower");
 
 // Check connection
 if (mysqli_connect_errno())
